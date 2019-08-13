@@ -884,7 +884,7 @@ MonoBehaviour:
     Sprite Asset\" name=\"Unity Logo\">\u4E0E<sprite=\"spriteicons\" name=\"spriteicons_9\">\n\u6307\u5B9A\u56FE\u7247\u7684\u989C\u8272<sprite=\"spriteicons\"
     index=98 color=#55CF4E>\u548C\u542B\u6709\u900F\u660E\u5EA6<sprite=\"Default Sprite
     Asset\" index=6 color=#F14FE264>\n\u56FE\u7247\u7684\u989C\u8272\u968F\u7EC4\u4EF6\u63A7\u5236<sprite=\"spriteicons\"
-    name=\"spriteicons_9\" tint=1 color=#FFFFFFFF>\n\u56FE\u7247\u7684\u989C\u8272\u4E0D\u8DDF\u968F\u968F\u7EC4\u4EF6\u63A7\u5236<sprite=\"spriteicons\"
+    name=\"spriteicons_9\" tint=1 color=#FFFFFFFF>\n\u56FE\u7247\u7684\u989C\u8272\u4E0D\u8DDF\u968F\u968F\u7EC4\u4EF6\u63A7\u5236<sprite=\"SpriteIcons\"
     name=\"spriteicons_9\" color=#FFFFFF80 tint=0>\n\u56FE\u7247\u7684\u989C\u8272\u4E0D\u8DDF\u968F\u968F\u7EC4\u4EF6\u63A7\u5236<sprite=\"spriteicons\"
     name=\"spriteicons_13\">"
   m_isRightToLeft: 0
