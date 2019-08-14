@@ -72,6 +72,7 @@
     <Compile Include="Assets\Demigiant\DOTweenPro\DOTweenTextMeshPro.cs" />
     <Compile Include="Assets\Demigiant\DOTweenPro\DOTweenTk2d.cs" />
     <Compile Include="Assets\Scripts\2.常用富文本\ActiveTarget.cs" />
+    <Compile Include="Assets\Scripts\2.常用富文本\TextGroup.cs" />
     <Compile Include="Assets\Scripts\Test\AAA.cs" />
     <Compile Include="Assets\Scripts\Test\CamGyro.cs" />
     <Compile Include="Assets\Scripts\Test\ExampleScript.cs" />
